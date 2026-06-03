@@ -5,7 +5,7 @@ This repository contains the database script and queries developed for the SQL p
 ---
 
 ## 📂 File Structure
-* `SQL_Activity_Script.sql`: The main SQL file containing all the queries, structural commands, and analysis.
+* `SQL activities`: The main SQL file containing all the queries, structural commands, and analysis.
 * `README.md`: This file, documenting the assignment overview.
 
 ---
