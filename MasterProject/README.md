@@ -34,7 +34,7 @@ README.md: This file, documenting the project.
 ## 📈 Key Insights & Findings
 * **Geographical saturation:** It was noted how most job offers (over 70%) were located in big hubs (Madrid, Barcelona, London, Paris), as well as the surrounding areas of the Spanish cities. 
 * **Salary differences:** The average Spanish salary was dramatically lower than that of Paris and London. In fact, the London salary was over half the Spanish average. 
-* **Remote work:** An uptick of hybrid work was noticed in both Madrid and Barcelona when compared to the to scraped data from 2025 and 2026.
+* **Remote work:** An uptick of hybrid work was noticed in both Madrid and Barcelona when compared to the scraped data from 2025 and 2026.
 * **Spanish market opacity:** As mentioned in the limitations, salary data from Spain was very often (80%) not included, which showed how opaque this information is. However, this showed opportunity as well, and it was suggested to the client to include this info as a differentiator and to be more appealing.
 
 ---
