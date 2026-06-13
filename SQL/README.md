@@ -19,6 +19,7 @@ This repository contains the database script and queries developed for the SQL p
   * Joins and relationships ("INNER JOIN`, "LEFT JOIN")
   * Conditional logic ("CASE WHEN")
   * Advanced functions (Subqueries, CTEs...)
+  * Window functions (RANK, DENSE_RANK, ROW_NUMBER, PARTITION BY)
 
 ---
 
